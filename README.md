@@ -20,9 +20,8 @@
 
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MazenElSayegh&theme=radical&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mazen's Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazenElSayegh=compact" alt="Mazen's most used Languages">
 </br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/MazenElSayegh/github-readme-stats)
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
