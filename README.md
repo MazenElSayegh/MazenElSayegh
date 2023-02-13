@@ -19,7 +19,7 @@
 - 🖥 &nbsp; Photoshop | Figma
 
 <br>
-
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MazenElSayegh&theme=radical)
 </br>
 
 
