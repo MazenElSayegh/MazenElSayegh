@@ -1,5 +1,5 @@
 <h2> Hello World! <br> You just can call me 'MAZEN' <dev.gif" width="25"></h2>
-<img align="right" alt="GIF" src="dev.gif" width="400"/>
+<img align="right" alt="GIF" src="dev.gif" width="350"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
