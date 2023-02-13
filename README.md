@@ -1,4 +1,4 @@
-<h2> Hello World! <br> You just can call me 'MAZEN' </h2>
+<h2> Hello World!<img src="Hi.gif" width="30"><br>You just can call me 'MAZEN' </h2>
 <img align="right" alt="GIF" src="dev.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
