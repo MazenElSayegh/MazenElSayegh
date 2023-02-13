@@ -13,8 +13,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | C++ | C 
-- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Xampp
+- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap | ECMAScript 6
+- 🛢 &nbsp; MySQL | Xampp 
 - 🔧 &nbsp; Netbeans | JFX & SceneBuilder | Visual Studio code | Linux Terminal | Git
 - 🖥 &nbsp; Photoshop | Figma
 
@@ -25,7 +25,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center"> 
+<p> 
 &nbsp; <a href="https://instagram.com/mazen_elsayegh?igshid=Mzc0YWU1OWY=" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/mazen-el-sayegh-aba976245/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:mazen.elsayegh120298@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
