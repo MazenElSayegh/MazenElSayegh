@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazenElSayegh&layout=compact" alt="Mazen's most used Languages" width="450">
 </br>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Feel free to connect with Me </h3>
 
 <p> 
 &nbsp; <a href="https://instagram.com/mazen_elsayegh?igshid=Mzc0YWU1OWY=" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
