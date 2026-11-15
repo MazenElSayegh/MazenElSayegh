@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; Graduated from Faculty of Engineering Alexandria University
 - 🎓 &nbsp; Took a Training at ITI - information technology institute as an Open source applications developer.
-- 💼 &nbsp; I’m currently working as a Sotware Developer at Ultatel.
+- 💼 &nbsp; I’m currently working as a Software Developer at Deloitte Innovation Hub.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🔭 &nbsp; Excited for tommorrow and future endeavors.
 - ✍️ &nbsp; My key is always improving.
